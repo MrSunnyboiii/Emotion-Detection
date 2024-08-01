@@ -1,7 +1,7 @@
 # Emotion-Detection
 This is an AI Jetson project to detect emotions
 
-![add image descrition here](direct image link here)
+![output](https://github.com/user-attachments/assets/b3ad2a4f-84f1-4aad-ab7a-d2b636a83702)
 
 ## The Algorithm
 
